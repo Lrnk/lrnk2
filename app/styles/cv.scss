@@ -1,9 +1,24 @@
-.contact-deet {
-  text-align: center;
+.cv {
+  margin-bottom: 40px;
+
+  .profile {
+    margin-bottom: 20px;
+  }
+
+  .contact-deets {
+    margin-top: 30px;
+
+    .deet {
+      text-align: center;
+      word-break: break-all;
+    }
+  }
+
+  .cv-time-heading {
+    .dates {
+      text-align: right;
+    }
+  }
+
 }
 
-.cv-time-heading {
-  .dates {
-    text-align: right;
-  }
-}
